@@ -8,7 +8,12 @@
   "bin": {
     "tag": "./app.js"
   },
-  "keywords": [],
+  "keywords": [
+    "teams",
+    "green",
+    "status",
+    "microsoft"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
